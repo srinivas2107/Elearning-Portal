@@ -1,0 +1,25 @@
+.p1{
+	background-color:blue;
+}
+.p2{
+	background-color:black;
+	margin-left:440px;
+	margin-right:440px;
+}
+.p3{
+	background-color:yellow;
+	margin-top:15px;
+	margin-bottom:15px;
+	margin-left:150px;
+	height:25px;
+	border-radius:5px;
+}
+.p4{
+	background-color:green;
+	border:1px green;
+	margin-top:15px;
+	margin-bottom:15px;
+	margin-left:200px;
+	height:25px;
+	border-radius:5px;
+}
